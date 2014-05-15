@@ -1,0 +1,1 @@
+define("a",[],{color:"red"}),define("b",["a"],function(o){return console.log("b.js:"+o.color),{color:o.color,width:"120px"}}),define("c",["b"],function(o){console.log("run c.js :"+o.color+","+o.width)});
