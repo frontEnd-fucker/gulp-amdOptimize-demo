@@ -1,4 +1,4 @@
 gulp-amdOptimize-demo
 =====================
-ÓÃgulpµÄ²å¼şamd-optimizeÊµÏÖrequireJsµÄoptimizer¹¤¾ß
-ÓÃgulpÀ´ÊµÏÖ[ÕâÆª²©¿Í](http://blog.segmentfault.com/f2e/1190000000394849)ËùÊµÏÖµÄĞ§¹û.
+
+ç”¨gulpå®ç°[è¿™ç¯‡åšå®¢](http://blog.segmentfault.com/f2e/1190000000394849)ä¸­æ‰€å®ç°çš„æ•ˆæœ.
